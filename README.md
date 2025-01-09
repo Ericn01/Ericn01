@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development & data analytics.
 - 🌱 I’m currently improving my skills in ReactJS.
 - 💞️ I’m looking to collaborate on exciting projects!
-- 📫 How to reach me: by [email](mailto:ericnielsen2001@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/eric-nielsen-37a361221).
+- 📫 How to reach me: by [email](mailto:ericnielsen2001@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/eric-nielsen01).
 
 <!---
 Ericn01/Ericn01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
