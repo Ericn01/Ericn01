@@ -19,6 +19,7 @@
 - [LinkedIn Profile](https://www.linkedin.com/in/eric-nielsen01)
 
 **I'm also active on CodeWars:**
+
 [CodeWars Progress](https://www.codewars.com/users/Ericn01)  
 <img src="https://www.codewars.com/users/Ericn01/badges/small" alt="Codewars Badge">
 
