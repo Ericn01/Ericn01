@@ -17,8 +17,10 @@
 📫 **Let's connect:**
 - [Email me](mailto:ericnielsen2001@gmail.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/eric-nielsen01)
-- [CodeWars Progress](https://www.codewars.com/users/Ericn01)  
-  <img src="https://www.codewars.com/users/Ericn01/badges/small" alt="Codewars Badge">
+
+**I'm also active on CodeWars:**
+[CodeWars Progress](https://www.codewars.com/users/Ericn01)  
+<img src="https://www.codewars.com/users/Ericn01/badges/small" alt="Codewars Badge">
 
 <!---
 Ericn01/Ericn01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
