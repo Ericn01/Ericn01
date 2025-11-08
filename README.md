@@ -1,14 +1,12 @@
 ## 👋 Hey there, I'm **Eric Nielsen**
 
-🎓 I'm a recent graduate of **Mount Royal University**, holding a degree in **Computer Information Systems**.
+🎓 I'm a recent graduate of [**Mount Royal University**](https://www.mtroyal.ca/), holding a degree in Computer Information Systems.
 
-💻 **What I'm passionate about:**
-- 🌐 Web Development (currently sharpening my skills with **ReactJS**)
-- 📊 Data Analytics
+💻 **What I'm most interested in:**
+- 📊 Asking questions about the world and using data to find answers!
 - 🧩 Problem solving & continuous learning
 
 🚀 **Actively seeking opportunities** in:
-- Frontend or Full Stack Development
 - Data Analysis & Visualization
 - Tech roles where I can grow and contribute to real-world projects
 
